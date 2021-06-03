@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Looke about you: or, A word in season to a divided nation. Cavete ab Esauitis, take heed of the Iesuit. Abundans cautela non nocet. Never was yet a nation undone by too much caution.</title>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88522</idno><idno type="EEBO-CITATION">99862938</idno>
+  <idno type="VID">160537</idno>
+  <idno type="EEBO-PROQUEST">2240956776</idno>
+  
+            <idno type="STC">Wing L3008</idno>
+            <idno type="STC">Thomason E408_3</idno>
+            <idno type="STC">ESTC R202754</idno>
+            <idno type="PROQUEST">99862938</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862938e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160537)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E408[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Looke about you: or, A word in season to a divided nation. Cavete ab Esauitis, take heed of the Iesuit. Abundans cautela non nocet. Never was yet a nation undone by too much caution.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock, &amp; are to be sold at his shop at the sign of the Kings head in Pauls Church yard.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160537:1"/>
+            <p>Looke about You: <hi>OR,</hi> A word in Season to a Divided Nation.</p>
+            <q>
+               <hi>Cavete ab Esauitis,</hi>
+            </q>
+            <q>Take heed of the Iesuit.</q>
+            <q>
+               <hi>Abundans cautela non nocet.</hi>
+            </q>
+            <q>
+               <l>Never was yet a Nation</l>
+               <l>Vndone by too much caution.</l>
+            </q>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Martem nôrunt animare</hi>
+                  </l>
+                  <l>
+                     <hi>Et tumultus suscitare</hi>
+                  </l>
+                  <l>
+                     <hi>Inter Reges &amp; sedare.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Tanquam Sancti adorantur;</hi>
+                  </l>
+                  <l>
+                     <hi>Tanquam Reges dominantur;</hi>
+                  </l>
+                  <l>
+                     <hi>Tanquam fures depradantur.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Dominantur Temporale;</hi>
+                  </l>
+                  <l>
+                     <hi>Dominantur Spirituale;</hi>
+                  </l>
+                  <l>
+                     <hi>Dominantur omnia malè.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Hosigitur Iesuitas,</hi>
+                  </l>
+                  <l>
+                     <hi>Nebulones Hypocritas.</hi>
+                  </l>
+                  <l>
+                     <hi>Fuge, sicoelicaquaras.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Vita nam{que} Christiana</hi>
+                  </l>
+                  <l>
+                     <hi>Abhorret ab hâs doctrinâ</hi>
+                  </l>
+                  <l>
+                     <hi>Tanquam fictá &amp; msanâ.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <label>Ergo,</label>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Vos qui cum Jesu itis</hi>
+                  </l>
+                  <l>
+                     <hi>Non ite cum Jesuitis.</hi>
+                  </l>
+               </lg>
+            </q>
+            <q>
+               <hi>Quod dat Deus! votum este.</hi>
+            </q>
+            <p>LONDON: Printed for <hi>Robert Bostock,</hi> &amp; are to be sold at his shop at the sign of the Kings head in <hi>Pauls</hi> Church yard. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:160537:2"/>
+            <pb n="1" facs="tcp:160537:2"/>
+            <head>Looke about you: OR A word in season to a divided <hi>NATION, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Ew or none but agree joyntly in the chief working and procuring cause of all our Calamity w<seg rend="sup">ch</seg> hath deformed and dis-figured three so famous Realms and Dominions; all Professors Protestant ac<g ref="char:EOLhyphen"/>knowledging it sent by God, 3 <hi>Amos 6.</hi> as deserved and pro<g ref="char:EOLhyphen"/>cured by sinne, 2 <hi>ler.</hi> 17-4.18. All the question is of the principall instruments among men, who have the chiefe hand in acting and fomenting of such an universall and cru<g ref="char:EOLhyphen"/>ell designe against <hi>Liberty,</hi> and (which is the life of soules, and soule of life) <hi>Religion, Quaritur,</hi> whose Agents are these unhappy (however successefull) instruments? who sets them on worke? Grant,<note place="margin">59 Esa. 2.</note> our sinnes have separated our Kingdome from God; but who hath so farr engaged and em<g ref="char:EOLhyphen"/>broiled the miserably-divided Inhabitants one against ano<g ref="char:EOLhyphen"/>ther? Is not the hand of <hi>Ioah</hi> in all this? Is it not a party (and a great one too, however too securely and presumptuously slighted of such as are ignorant of, or not well read in their principles and practises) whose Religion and Resolution is to <hi>Divide</hi> and destroy Kings and Princes, People and Na<g ref="char:EOLhyphen"/>tions not a few? who Preach and Print, <hi>Divide &amp; Impera</hi> for a fundamentall Doctrine, which in plaine English explains
+<pb n="2" facs="tcp:160537:3"/>their mystery of iniquity, and gives light enough to guesse at, if not openly discover, their blacke Art of building up<g ref="char:EOLhyphen"/>on others ruine: knowing the Ark will not let <hi>Dagon</hi> stand, and <hi>Bethel</hi> will not give <hi>Babel</hi> a <hi>Toleration,</hi> for God is not the author of <hi>Confusion.</hi> 1 <hi>Cor.</hi> 14.33.</p>
+            <p>I remember your Proverbe, if milke burne too, The Bi<g ref="char:EOLhyphen"/>shop's foot is in it. Hath not the Jesuite a chief hand in ma<g ref="char:EOLhyphen"/>king our seething Nation burne too, and boile over into the fire of his owne kindling;<note place="margin">
+                  <hi>Vid.</hi> Mr. <hi>Pe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er Gosselin's</hi>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pistle to his <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reatise of the <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate myste<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of the Je<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uites, Tran<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ated out of <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rench, and <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rinted at <hi>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ondon</hi> for <hi>N. <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>utter.</hi> A. D. <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>523.</note> who (under the sweet name of Je<g ref="char:EOLhyphen"/>sus) preacheth and publisheth little * else then <hi>Fire, Mar<g ref="char:EOLhyphen"/>der,</hi> &amp; <hi>Sedition?</hi> But he is so cunning a Sophister as to play least in sight when he is most in action; and to promote the publike ruine, whilst he sits, and plots, and acts in private, (as becomes the Younger brother of Perdition) <hi>ad ruinam Natus,</hi> borne to undoe a Nation. This is <hi>Ioannes de Altrado,</hi> that will personate any man or calling, if so be he may com<g ref="char:EOLhyphen"/>pleate all he hath been plotting: The <hi>Iack</hi> behinde the hedge (I knew not the meaning or use of the old Fable till of late) (who sets the Gyants together by the eares.<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pus in Fa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> In a word, the crafty Knave at shore, that stands laughing in his sleeve, and clapping his hands for joy to see the hot skirmish at Sea of his owne making.</p>
+            <p>
+               <hi>Seduced Countrey-men,</hi> who hath bewitched you with a sot<g ref="char:EOLhyphen"/>tish ignorance of the course which three Kingdoms are now running in full careere to their owne undoing? If yee bee not blinde on both eyes, you can hardly avoid the sight of one behind the Curtaine in the retiring room, who dres<g ref="char:EOLhyphen"/>seth all or most Actors of this Bloudy, Popish, Hellish, Je<g ref="char:EOLhyphen"/>suiticall Tragedy, which have so happily (to the rejoycing of their once-within-this-six-years-drooping spirits, &amp; an<g ref="char:EOLhyphen"/>swer of their earnest desires and longing expectation; as they are not ashamed to make their brags) gone through and acted over most of the Scenes in <hi>Ireland</hi> (almost undone by their meanes, and now in all probability, (without an inter<g ref="char:EOLhyphen"/>vening
+<pb n="3" facs="tcp:160537:3"/>miracle of Divine mercy) neare a compleate ru<g ref="char:EOLhyphen"/>ine by their present Designe, the Master-piece of their chief Head piece Satan and his Vicar Antichrist) that he is estee<g ref="char:EOLhyphen"/>med more then halse an Infidell among those Brethren in Catholick Conspiracy, and Universall Iniquity, who seems to have the least shadow of scruple or doube of finishing the last Scene and Act, and concluding with the ten-Thou<g ref="char:EOLhyphen"/>sand times more unmercifull and altogether Diabolico<g ref="char:EOLhyphen"/>papa-Jesuiticall Epilogue in <hi>Englands</hi> finall overthrow and desolation. <hi>Quod avertat Dew!</hi> is my frequent and fervent Prayer; and I know herein I doe not pray alone, having all well-wishers to Gods <hi>Truth</hi> and <hi>England's Peace,</hi> daily in<g ref="char:EOLhyphen"/>stant Orators at the Throne of Grace to beare me compa<g ref="char:EOLhyphen"/>ny. <hi>Exaudinos Domine.</hi>
+            </p>
+            <p>Fellow-Citizens, and fellow-souldiers,</p>
+            <p>Will you have a taste of these seeming holy Fathers unholy Principles, shall I give you some hint of their blou<g ref="char:EOLhyphen"/>dy practices? I hope a word of instruction will not be out of season to pave the way to caution and admonition; ha<g ref="char:EOLhyphen"/>ving in brief acquainted you with some of their inaccessible mysteries.</p>
+            <p>These and such like are the Articles of their Creed, whose faith is faction.</p>
+            <p n="1">1. <hi>The Pope of Rome hath all power in his hand,<note place="margin">Ludov. Luci<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Hist, Iesuit. <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <hi>2.</hi> p. <hi>177, 179,</hi> &amp;c.</note> both Spiritu<g ref="char:EOLhyphen"/>all and Temporall; to command and forbid, to excommunicate and punish, to make and unmake Emperors, Kings, Princes and Magistrates of all sorts, to grvernetheir Realmes and Subjects at his pleasure. Hee that doth not give credit to this as an article of Faith, approve and obey it is accounted and abhorred as an Heretick.</hi>—This is held and maintained in the writings of <hi>Platina, Sylvester Prierias, Bellarmine, Bezius, Pezantius, Sua<g ref="char:EOLhyphen"/>vez</hi> &amp; others of Satan's Chaplains in ordinary, but the Holy Ghost in Scripture speaks clean contrary. 62 <hi>Psa.</hi> 11. <hi>Mat</hi> 9.6.-18.18-6.13-1 <hi>Cor.</hi> 15.24. 4 <hi>Rev.</hi> 11.-5.12, 13-19 1, <hi>&amp;c.</hi>
+            </p>
+            <pb n="4" facs="tcp:160537:4"/>
+            <p> Mark I beseech you how contrary to Scripture, yea nature, and publique welfare, the principles of Jesu<g ref="char:EOLhyphen"/>its are. Need I bid you abhorre the Treason?</p>
+            <p n="2">2. <hi>All the Constitutions, Covenants, Agreements, Capitulati<g ref="char:EOLhyphen"/>ons, Grants, that any Emperour, King, Prince, or any other (who is not of the present Roman-Catholique Religion, or professeth any other) due make, are void and null, though ratified and con<g ref="char:EOLhyphen"/>firmed by an oath since the Pope approves them not.</hi>
+               <note place="margin">Jacob. Siman<g ref="char:EOLhyphen"/>cha.</note> One of their famous Scribes maintaines, <hi>There ought be no commerce or peace with Heretiques, &amp;c. If any promise or oath have beene made and given, it ought in no wise to be kept. Conradus Brunus</hi> writes, <hi>There can be no peace betweene a Catholique and Here<g ref="char:EOLhyphen"/>tique; it is an unjust and blasphemous condition, Quâ Haretisis permittitur ut dogmata sua doceant, Togive any leave to vent a<g ref="char:EOLhyphen"/>ny other then Cathalique doctrine—Petrus Ribadeneira, Mar<g ref="char:EOLhyphen"/>tinus Becanus, Antonius Possevinus,</hi> sing to the same tune—A man shall as soon find Peace as Truth, and Truth as Peace among these Catholique Impostors, Soule-cheaters, and both <hi>ad Gracas Kalendas,</hi> are like to kisse in the Romish Sea where <hi>Apollyon</hi> domineers. Who would serve under such Enemies of Peace and Truth? Looke about you (fellow-souldiers) give no tolleration for such to lurke among you, and put their bloody designes in execution by you. This is their Principle, you may read out their horrid practice, as full of blood and neer to ruine, as they are far from Peace.</p>
+            <p>When they pretend to exhort to, and plead for Peace, beleeve them not;<note place="margin">5 Psal, 20.</note> for (as <hi>David</hi> said) <q>
+                  <hi>They speak not Peace, but they devise deceitfull matters against them that are quiet in the Land.</hi>
+               </q>
+            </p>
+            <p>Lord how long wilt thou look on? Rescue my soule from their destructions-35. <hi>Psal.</hi> 17.</p>
+            <p>Take the Jesuit's character, see him drawne to the life by the pensill of the holy Ghost in holy Scripture;<note place="margin">5 Psal. 20.</note>
+               <hi>He hath put forth his hands against such as be at Peace with him; he hath
+<pb n="5" facs="tcp:160537:4"/>broken</hi> [or prophaned] his Covenant.<note place="margin">5 Psal. 21.</note>
+               <hi>The words of his mauth were smoother then butter, but Warre was in his heart: his words were softer then oyle, yet were they drawne Swords.</hi>
+            </p>
+            <p>O that God would open the eyes of such as live neare or dwell among these men of blood, these sonnes of <hi>Belial,</hi> that at last, espying how they have beene deluded, they may every one, open his mouth in such words as he uttered up<g ref="char:EOLhyphen"/>on the discovery of such a crastie Generation.<note place="margin">120 Psal. 6, 7.</note>
+               <hi>My soule hath long dwelt with him that hateth Peace. I am for Peace</hi> (or a man of Peace) <hi>but when I speake, they are for Warr:</hi> Whom I may describe by this Motto, <hi>Mel in orefel in corde;</hi> A pot of Gall cover'd over with Hony. So I leave their second Principle, as another Article of their Creed, and come to a third.</p>
+            <p n="3">3. It is the Dutie of all Catholiques every where, to doe what in them lyeth, by Fire, Sword, Poyson, Gun<g ref="char:EOLhyphen"/>powder, War, and other such like Plots and Stratagems, to oppresse and take out of the way all Heretiques with their abettors, as also all Politique Catholiques,<note n="*" place="margin">Sio Jesuitae consiliarios Principum Pon<g ref="char:EOLhyphen"/>tificiorum, pa<g ref="char:EOLhyphen"/>cis studiosos, cognominant.</note> who study and endeavour to keep Peace &amp; live at quiet, rather then assist and put to their helping hand for the suppression and extirpa<g ref="char:EOLhyphen"/>tion of Heretiques.</p>
+            <p>
+               <hi>Ribadeneira, P. Chirlandus, Simancha,</hi> and others of those disloyall Loyallists,<note place="margin">Orat. ad Car. <hi>5.</hi> Imper.</note> write at large of this point—Cardi<g ref="char:EOLhyphen"/>nall <hi>Poole</hi> perswaded <hi>Charles</hi> the fifth, to leave the Turkes and goe against the Heretiques; <q>
+                  <hi>His n. compositis, mineri negotie reliqua aggredi ac perficere poteris. A Turcâ minus periculi imminst.</hi> i.e. <hi>When you have quieted them, you may goe on with mere ease against the Turke.</hi>
+               </q> So another of these Gowned Assassines, in his Oration to the Emperour <hi>Maxi<g ref="char:EOLhyphen"/>milian</hi> the second, <milestone type="tcpmilestone" unit="unspecified" n="1566"/> saith—<hi>Quamdiu non equum tuum in La<g ref="char:EOLhyphen"/>ther anorum sanguine ventre-tenus natare feceris; cogitare mi<g ref="char:EOLhyphen"/>nimè debes, te fortunâbonâ aut victoriâ contra Turcam. potitu<g ref="char:EOLhyphen"/>rum esse. It's in vaine to imagine or dreame of any good successe,
+<pb n="6" facs="tcp:160537:5"/>much lesse of a victory against the Grand Seignear, untill your horse can swim up to the belly</hi> in Lutheran gore. <hi>Conradus Brunus, Windeck, Petrus Stewartus, Muthias Meyerhofer, Stapleton, Baronius, Ribadencira, Becanus,</hi> father <hi>Garnet, Hill,</hi> and <hi>Creswell,</hi> (all true Jesuits, though never a True mana<g ref="char:EOLhyphen"/>mong them) with one heart and subscribe to this Article, and conspire in this bloody Religion, which is built on the foundation of lying and destroying, as it is written and co<g ref="char:EOLhyphen"/>pied out in blood and gall: the professors and practisers of which,<note place="margin">8 Rev. 11.</note> are such blazing Comets and falling Starres, as em<g ref="char:EOLhyphen"/>bitter all the waters they light upon.</p>
+            <q>
+               <l>Be wise at last ye Popish Kings,</l>
+               <l>These Iesuits are divilish things.</l>
+               <l>If peaceable and moderate,</l>
+               <l>Your life, they teach, is out of date.</l>
+               <l>They call you Politique, make it good,</l>
+               <l>For these vow they will have your blood.</l>
+               <l>If this be their Religion,</l>
+               <l>What's Murder and Rebellion?</l>
+            </q>
+            <p n="4">4. Take one more in the last place to make up the qua<g ref="char:EOLhyphen"/>ternio and squadron-. Whensoever Roman-Catholique Subjects doe judge, and in their councells or meetings con<g ref="char:EOLhyphen"/>clude, that the Emperour, King, or Prince, under whom they live, is a Tyrant, they may depose him, and are dis-en<g ref="char:EOLhyphen"/>gaged from all homage and obedience to him: If the Em<g ref="char:EOLhyphen"/>perour, or King, or Prince, doe forbid their meetings toge<g ref="char:EOLhyphen"/>ther, then may any Subject, having advised with the Jesu<g ref="char:EOLhyphen"/>its, kill the King, and therein is accounted by them to doe a praise-worthy and meritorious act. Hit erro adde, that if they have a Lutheran, or any other Heretique for their King, who labours to make the Subjects all of his Religion, then they hold all the Subjects free from engagement and subjection to him, and it's free for them to depose, root out, or suppresse him, to kill, or poyson him—</p>
+            <pb n="7" facs="tcp:160537:5"/>
+            <p> So doe they write of this, as if such onely deserved the Bayes and Crowne who had done some such like Act.</p>
+            <p>See <hi>Ioh. Mariana de rege, lib.</hi> 1. <hi>cap.</hi> 6. who tells us, that in all ages, <hi>in magnâ laude fuêre, quicun{que} Tyrannos opprimere aggressi sunt.</hi>
+            </p>
+            <p>So doe they tye Kings at their girdle, that if any Prince refuse to give eare to their counsells (which cannot be good, comming from men of such corrupt and bloody princi<g ref="char:EOLhyphen"/>ples) presently they give an allarme to the Subjects, whose licence to Rebell and Kill is subscribed with their <hi>Imprima<g ref="char:EOLhyphen"/>tur</hi>—</p>
+            <p>With him walkes <hi>Creswell,</hi> aliâs <hi>Philopater,</hi> hand-in-hand together—With these joyne <hi>Guignard, Reinald, Veronaus, Ioh. Gueret Castellius,</hi> (Sainted or Chronicled for a Martyr in remembrance of his killing one of the <hi>Henry's</hi> of <hi>France</hi>) who have the approbation and good-liking of their whole Colleges—</p>
+            <p>For what came <hi>Parry</hi> over to <hi>England</hi> in the 26 of Queen <hi>Eliz.</hi> (of famous and pious memory, for Valour,<note place="margin">v. Acta Henrici Garneti.</note> Wise<g ref="char:EOLhyphen"/>dome, and Vertue) but to make away with the Queene, as one whom the Pope had excommunicated—</p>
+            <p>To what other end came <hi>Garnet Tesmond,</hi> and <hi>Gerrard,</hi> (prime Jesuits) with their accomplices into this Nation,<note place="margin">1605.</note> but to undermine and blow up King, and Nobles, &amp; Com<g ref="char:EOLhyphen"/>mons, both Houses of Parliament, Governours and Go<g ref="char:EOLhyphen"/>vernment at once.—</p>
+            <p>They pretend a reason, as <hi>Suarez</hi> writes, <hi>Rex hareticus,</hi>
+               <note place="margin">Suar. Defens. fdeiCatho. con<g ref="char:EOLhyphen"/>tra Anel. Sect. Error. l. <hi>6.</hi> c. <hi>4.</hi>
+               </note>
+               <hi>statim per heresim ipso facto privatur alique modo dominie &amp; proprietate sui regni: quiavel confiscatum manct, vel ad legiti<g ref="char:EOLhyphen"/>mum successorem Catholicum ipse jure transit.</hi> As if a King could no sooner leave or oppose the Catholike Religion, but he makes an absolute forfeiture of, and loseth all right to his Kingdome and Dominion: As if it were to be a Rule,
+<pb n="8" facs="tcp:160537:6"/>No Catholike, No King; which they can never make good by all their Sophistry, although it should be supposed that we give them leave to screw up their witty equivocation to the highest pegge. Let them have <hi>Simancha, Tresham, Cres<g ref="char:EOLhyphen"/>well, Mariana,</hi> which last Scribe wrote a book of <hi>Regicide</hi> or <hi>King-slaying,</hi> (which he approves and maintains tooth and naile, as if he intended the next step and remove into the Papall throne.) Which fiery Treatise was commanded to the fire at <hi>Paris,</hi> after publique censure by a Parliamentary Edict. Whereupon one admonished the French in such a manner:</p>
+            <q>
+               <l>Galli, si sapitis, quid librum traditis igni?</l>
+               <l>Authores vestris pellite limitibus.</l>
+               <l>In cineres abiit liber unus; mille relicti.</l>
+               <l>Horumturbaloquax; mutus at ille fuit.</l>
+               <l>Hortos qui capiunt penitùs purg are veneno</l>
+               <l>Radices properant vellere; non folia.</l>
+            </q>
+            <p>Which may be Englished plainly thus, in our plaine habit.</p>
+            <q>
+               <l>Ye French, if wise, the book why doe yee burne?</l>
+               <l>Out of your Coasts the Authors rather turne.</l>
+               <l>One Book's to ashes gone; a thousand stay.</l>
+               <l>These are more talkative, but that was dumbe.</l>
+               <l>They that would Orchards quite of poisen rid,</l>
+               <l>Pluck up the root, not leaves; or wish they did.</l>
+            </q>
+            <p>To pull the fruit of this bitter Tree that growes on such a root of killing and poisonous principles, in <hi>France</hi> or our own Kingdoms, would aske more time then I have to write, and as much patience more as you have to read.</p>
+            <p>I am already tyr'dout with leaking in this kennel of bloud<g ref="char:EOLhyphen"/>hounds, and raking in this bloudy channell of their irreligi<g ref="char:EOLhyphen"/>ous religion, and pretended faith so much worse then pro<g ref="char:EOLhyphen"/>fessed Insidelity, that I cannot measure in my apprehension, much lesse parallell in my expression, I should think I said enough, having sent you back to three dying Realmes, expe<g ref="char:EOLhyphen"/>rience
+<pb n="9" facs="tcp:160537:6"/>of Jesuiticall treachery and cruelty, which rigged the Spanish Navy in 88, and another Armado within this 8 or 9 yeares, in their conceit as likely to prove invincible as the former. But I shal not adventure beyond my time or lei<g ref="char:EOLhyphen"/>sure. All I have to say, is to relate one or two late sto<g ref="char:EOLhyphen"/>ries, which I conceive to be of some observation not altoge<g ref="char:EOLhyphen"/>ther unworthy.</p>
+            <p>When I was lately in <hi>London,</hi>
+               <note place="margin">About <hi>May,</hi> 1647. M. <hi>Bodin</hi> Mini ster of the <hi>Bath.</hi>
+               </note> as I passed by <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard, I spyed a friend in a Stationer's Shop, who, after sa<g ref="char:EOLhyphen"/>lutes passed, with some briefe discourse of the times, in<g ref="char:EOLhyphen"/>formed mee of some late newes out of <hi>Italy</hi> arrived at his hands in a Letter from a friend, concerning a meeting not very long since among the Popish Priests, and others; whereat, a question being put, (How to reduce <hi>England</hi> to <hi>Rome?</hi>) after many had risen up &amp; given in their best advice, An antient Fryar begins to speak in such a manner; <hi>It is not Fire and Faggot, not the Sword, not Powder-plots, that can effect it;</hi> you thought well on another meanes, <hi>viz.</hi> to worke up<g ref="char:EOLhyphen"/>on, and gaine in the King and Nobles; <hi>but no way, in my judgement like this,</hi> viz. <hi>Set the Puritan against the Preacher and the worke is done.</hi>
+            </p>
+            <p>I then thought, and (as I remember) said, They have now their work done to their hands; which is their master-plot and grand en<g ref="char:EOLhyphen"/>gine, to pull down more by their policy then ever they could throw down with their pieces of battery. You see the Popish eggs are not all addle, if one device doth not, another may, and will take, and reach as far as God will permit, but further it cannot. This is one, the other followes.</p>
+            <p>Calling to see a friend at <hi>Putny,</hi>
+               <note place="margin">The Minister of <hi>Barns.</hi>
+               </note> he told me of a Merchat in the same house then present, who related unto him an History, or rather some late experience then Intelligence, then (as he said) not a week old.</p>
+            <p>Few dayes before he was walking in <hi>London,</hi>
+               <note place="margin">About some part of <hi>May.</hi>
+               </note> and seeing a mul<g ref="char:EOLhyphen"/>titude at a doore, he asked who preached there? A woman answe<g ref="char:EOLhyphen"/>red, One whom they count an Anabaptist, but he is a very Good Able Man. He resolv'd to stay and heare, and upon hearing of the Sermon, he was much taken with the mans parts and abilities: all
+<pb n="10" facs="tcp:160537:7"/>done, he tooke more notice of the man, thinking he had seene him of late beyond the Seas, and, taking him by the hand, salutes him, Sir, doe you not remember me? The Preacher denyes that ever he saw him. At length, he so describes himselfe, and writes him as it were a Copy of the place, time, company, in such Characters as he admired, and hereupon said, Sir, If you betray me, &amp;c.—putting his hand to his neck. But, I wonder, said the Merchant, how you came to pray and preach so vehemently for puritie of Ordinances, &amp;c. just as some among us.—He answered, Our College can reach any of parts, that in a fortnight. The Merchant againe, Sir, but you are not of this judgement and way, as you pretend here, are you? No, saith he, but you know <hi>Divide &amp; Impera.</hi> This Merchant, as the Mini<g ref="char:EOLhyphen"/>ster informed me, said, This was a Jesuit whom he saw in <hi>Rome</hi> sew moneths agoe.</p>
+            <p>By what I have read concerning the Principles and practices of these men, I have ground to imagine. There is not one Sect or opi<g ref="char:EOLhyphen"/>nion in this or any other Realme, which some or other of them doe not pretend to be of and joyne with, if so be they may hereby play their owne game, and make others drive all day long in their mill blindfold, to advance the Catholike Cause here and elsewhere. They cannot fish but in troubled waters, every one can tell how good fish<g ref="char:EOLhyphen"/>ing they must needs find here, if they had none elsewhere.</p>
+            <p>I am sorry I took no more punctuall notice of them, who informed me concern<g ref="char:EOLhyphen"/>ing a Jesuit, who playd his game so well, that he got into a Living of late yeares, and kept undiscovered, untill one travelling on the way, being forced to lye in that Town, and resolving to hear one on the Lords day in that place, heard him, and (thinking he knew him) would have had him come to his Inne, but the noise of this invitation deprived them of an afternoon Sermon, the Preacher being fled. It's not unknown to him that knows any thing of the Jesuits doctrines, that they use to train up many to seduce and deceive as well as to kill and destroy.</p>
+            <p>Having bin excited, partly by a friend who is a wel-wisher, but more by my hearty wel-wishes to, and desires of the glory of God and the publique good, I could not but hold forth an Item for my Country-mens admonition, and (If I live doe no more for them, which is knowne best unto God, and him onely) in<g ref="char:EOLhyphen"/>treat them to <hi>beware of the Jesuits</hi> within (lust, &amp; a deceitfull heart) and without, <hi>viz.</hi> those brats of <hi>Ignatius,</hi> or rather fire-brands, that kindle distractions in Church and State all the world over;<note place="margin">8 Joh.</note> who descend more remotely from their fa<g ref="char:EOLhyphen"/>ther the Devill, who is the father of a lye, and a murderer <hi>ab initio,</hi> abominable for antiquitie; but more immediately derive their pedigree from <hi>Ignatius Loiola</hi> that carried fire in his name, whom some of the Jesuits<note n="*" place="margin">Salmanassar.</note> doe acknowledge to have bin by nature fierce, hard, and cruel. This cruel and butcherly nature and bloody disposition he derived unto his followers, who may well be named the <hi>Bloody dis<g ref="char:EOLhyphen"/>ciples,</hi> the <hi>fi<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ry Sect.</hi> Farewell Reader, <hi>Take heed,</hi> and say, <hi>Ye bad morning.</hi>
+            </p>
+            <closer>Si populus vult decipi, decipiatur, DIXI.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
